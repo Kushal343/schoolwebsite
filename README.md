@@ -54,3 +54,20 @@ Make your changes.
 Commit your changes (git commit -m 'Add some feature').
 Push to the branch (git push origin feature-branch).
 Open a pull request.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+### Adding and Pushing the README to GitHub
+
+1. **Create the `README.md` File**:
+   - Create a new file named `README.md` in the root directory of your project.
+   - Copy and paste the content from above into the `README.md` file.
+   - Save the file.
+
+2. **Add, Commit, and Push to GitHub**:
+   ```bash
+   git add README.md
+   git commit -m "Add README file"
+   git push origin master
